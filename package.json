@@ -1,0 +1,24 @@
+{
+  "name": "bitcoin-listener-zeromq-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gllambi/bitcoin-listener-zeromq-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gllambi/bitcoin-listener-zeromq-sample/issues"
+  },
+  "homepage": "https://github.com/gllambi/bitcoin-listener-zeromq-sample#readme",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.0.1",
+    "pkg-config": "^1.1.1",
+    "zeromq": "^6.0.0-beta.6"
+  }
+}
